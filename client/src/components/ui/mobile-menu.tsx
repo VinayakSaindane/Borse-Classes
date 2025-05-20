@@ -32,12 +32,7 @@ export default function MobileMenu({ isOpen }: MobileMenuProps) {
         >
           Admissions
         </Link>
-        <Link 
-          href="/blog" 
-          className="block px-3 py-2 rounded-md text-base font-medium text-neutral-700 hover:bg-neutral-100"
-        >
-          Blog
-        </Link>
+
         <Link 
           href="/contact" 
           className="block px-3 py-2 rounded-md text-base font-medium text-neutral-700 hover:bg-neutral-100"

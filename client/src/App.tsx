@@ -6,7 +6,6 @@ import About from "@/pages/about";
 import Courses from "@/pages/courses";
 import Admissions from "@/pages/admissions";
 import Contact from "@/pages/contact";
-import Blog from "@/pages/blog";
 import Login from "@/pages/login";
 import StudentPortal from "@/pages/student-portal";
 import ParentPortal from "@/pages/parent-portal";
@@ -26,7 +25,6 @@ function App() {
             <Route path="/courses" component={Courses} />
             <Route path="/admissions" component={Admissions} />
             <Route path="/contact" component={Contact} />
-            <Route path="/blog" component={Blog} />
             <Route path="/login" component={Login} />
             <Route path="/student-portal" component={StudentPortal} />
             <Route path="/parent-portal" component={ParentPortal} />

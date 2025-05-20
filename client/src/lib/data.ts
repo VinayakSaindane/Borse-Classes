@@ -16,81 +16,58 @@ export interface Course {
 
 export const courses: Course[] = [
   {
-    id: "advanced-mathematics",
-    title: "Advanced Mathematics",
+    id: "mathematics-grade-8-10",
+    title: "Mathematics for 8-10th Standard",
     category: ["primary", "secondary"],
     rating: 4.9,
     reviewCount: 120,
-    description: "Comprehensive course covering algebra, geometry, calculus, and problem-solving strategies.",
+    description: "Comprehensive course covering algebra, geometry, and problem-solving strategies for students in 8th to 10th standard.",
     duration: "16 weeks",
-    audience: "Grades 8-12",
+    audience: "Grades 8-10",
     price: "₹15,000",
     imageUrl: "https://images.unsplash.com/photo-1518133910546-b6c2fb7d79e3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300",
     isPopular: true
   },
   {
-    id: "integrated-science",
+    id: "science-grade-6-10",
     title: "Integrated Science Program",
     category: ["primary", "secondary"],
     rating: 4.8,
     reviewCount: 95,
-    description: "Explore physics, chemistry, and biology through practical experiments and conceptual learning.",
+    description: "Explore physics, chemistry, and biology through practical experiments and conceptual learning for 6th to 10th standard students.",
     duration: "20 weeks",
     audience: "Grades 6-10",
     price: "₹18,500",
     imageUrl: "https://images.unsplash.com/photo-1554475900-0a0350e3fc7b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300"
   },
   {
-    id: "jee-neet-preparation",
-    title: "JEE/NEET Preparation",
-    category: ["competitive"],
-    rating: 4.9,
-    reviewCount: 210,
-    description: "Intensive coaching for JEE and NEET aspirants with regular mock tests and personalized feedback.",
-    duration: "12 months",
-    audience: "Grades 11-12",
-    price: "₹45,000",
-    imageUrl: "https://images.unsplash.com/photo-1434030216411-0b793f4b4173?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300",
+    id: "english-language-arts",
+    title: "English Language & Literature",
+    category: ["primary", "secondary"],
+    rating: 4.7,
+    reviewCount: 85,
+    description: "Enhance reading comprehension, writing skills, and literary analysis for students in 6th to 10th standard.",
+    duration: "14 weeks",
+    audience: "Grades 6-10",
+    price: "₹14,000",
+    imageUrl: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300",
     isNew: true
+  },
+  {
+    id: "social-studies-grade-6-10",
+    title: "Social Studies Program",
+    category: ["primary", "secondary"],
+    rating: 4.6,
+    reviewCount: 75,
+    description: "Comprehensive coverage of history, geography, and civics with interactive learning for 6th to 10th standard students.",
+    duration: "16 weeks",
+    audience: "Grades 6-10",
+    price: "₹13,500",
+    imageUrl: "https://images.unsplash.com/photo-1503551723145-6c040742065b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300"
   }
 ];
 
-// Blog posts data
-export interface BlogPost {
-  id: string;
-  title: string;
-  description: string;
-  date: Date;
-  category: string;
-  imageUrl: string;
-}
 
-export const blogPosts: BlogPost[] = [
-  {
-    id: "study-techniques",
-    title: "5 Effective Study Techniques Based on Cognitive Science",
-    description: "Discover science-backed study methods that can significantly improve retention and understanding of complex topics.",
-    date: new Date("2023-10-05"),
-    category: "Education",
-    imageUrl: "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300"
-  },
-  {
-    id: "national-science-olympiad",
-    title: "Borse Classes Students Shine in National Science Olympiad",
-    description: "Our students secured 5 gold medals and 8 silver medals in this year's National Science Olympiad. Learn about their journey.",
-    date: new Date("2023-09-28"),
-    category: "Achievements",
-    imageUrl: "https://images.unsplash.com/photo-1516979187457-637abb4f9353?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300"
-  },
-  {
-    id: "parent-workshop",
-    title: "Upcoming Parent Workshop: Supporting Your Child's Academic Journey",
-    description: "Join our expert panel on October 15th for practical tips on how parents can effectively support their children's education.",
-    date: new Date("2023-09-15"),
-    category: "Events",
-    imageUrl: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=600&h=300"
-  }
-];
 
 // FAQ data
 export interface FAQ {

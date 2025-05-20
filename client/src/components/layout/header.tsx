@@ -56,9 +56,7 @@ export default function Header() {
             <Link href="/admissions" className={`${isActive('/admissions') ? 'text-primary' : 'text-neutral-700'} hover:text-primary font-medium`}>
               Admissions
             </Link>
-            <Link href="/blog" className={`${isActive('/blog') ? 'text-primary' : 'text-neutral-700'} hover:text-primary font-medium`}>
-              Blog
-            </Link>
+
             <Link href="/contact" className={`${isActive('/contact') ? 'text-primary' : 'text-neutral-700'} hover:text-primary font-medium`}>
               Contact
             </Link>
