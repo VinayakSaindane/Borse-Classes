@@ -267,18 +267,18 @@ export class MemStorage implements IStorage {
     // Sample courses
     const courses: InsertCourse[] = [
       {
-        title: "Advanced Mathematics",
-        description: "Comprehensive course covering algebra, geometry, calculus, and problem-solving strategies.",
+        title: "Mathematics for 8-10th Standard",
+        description: "Comprehensive course covering algebra, geometry, and problem-solving strategies for students in 8th to 10th standard.",
         category: "primary,secondary",
         duration: "16 weeks",
-        audience: "Grades 8-12",
+        audience: "Grades 8-10",
         price: "₹15,000",
         isPopular: true,
         isNew: false
       },
       {
         title: "Integrated Science Program",
-        description: "Explore physics, chemistry, and biology through practical experiments and conceptual learning.",
+        description: "Explore physics, chemistry, and biology through practical experiments and conceptual learning for 6th to 10th standard students.",
         category: "primary,secondary",
         duration: "20 weeks",
         audience: "Grades 6-10",
@@ -287,14 +287,24 @@ export class MemStorage implements IStorage {
         isNew: false
       },
       {
-        title: "JEE/NEET Preparation",
-        description: "Intensive coaching for JEE and NEET aspirants with regular mock tests and personalized feedback.",
-        category: "competitive",
-        duration: "12 months",
-        audience: "Grades 11-12",
-        price: "₹45,000",
+        title: "English Language & Literature",
+        description: "Enhance reading comprehension, writing skills, and literary analysis for students in 6th to 10th standard.",
+        category: "primary,secondary",
+        duration: "14 weeks",
+        audience: "Grades 6-10",
+        price: "₹14,000",
         isPopular: false,
         isNew: true
+      },
+      {
+        title: "Social Studies Program",
+        description: "Comprehensive coverage of history, geography, and civics with interactive learning for 6th to 10th standard students.",
+        category: "primary,secondary",
+        duration: "16 weeks",
+        audience: "Grades 6-10",
+        price: "₹13,500",
+        isPopular: false,
+        isNew: false
       }
     ];
 
