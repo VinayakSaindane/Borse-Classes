@@ -101,30 +101,7 @@ export async function registerRoutes(app: Express): Promise<Server> {
     }
   });
 
-  // Blog routes
-  app.get("/api/blog-posts", async (_req, res) => {
-    try {
-      const blogPosts = await storage.getAllBlogPosts();
-      res.json({ blogPosts });
-    } catch (error) {
-      res.status(500).json({ error: "Failed to fetch blog posts" });
-    }
-  });
 
-  app.get("/api/blog-posts/:id", async (req, res) => {
-    try {
-      const postId = parseInt(req.params.id);
-      const blogPost = await storage.getBlogPost(postId);
-      
-      if (!blogPost) {
-        return res.status(404).json({ error: "Blog post not found" });
-      }
-      
-      res.json({ blogPost });
-    } catch (error) {
-      res.status(500).json({ error: "Failed to fetch blog post" });
-    }
-  });
 
   // Authentication routes
   app.post("/api/login", (req, res) => {

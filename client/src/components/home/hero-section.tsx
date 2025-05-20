@@ -7,10 +7,10 @@ export default function HeroSection() {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
           <div className="order-2 lg:order-1">
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold text-neutral-900 leading-tight font-poppins mb-4">
-              Empowering Minds, <span className="text-primary">Inspiring Futures</span>
+              Excellence in <span className="text-primary">6th-10th Standard Education</span>
             </h1>
             <p className="text-lg text-neutral-700 mb-8">
-              At Borse Classes, we combine innovative teaching methodologies with personalized attention to help students achieve academic excellence and develop crucial life skills.
+              At Borse Classes, we specialize in providing exceptional academic coaching for students from 6th to 10th standard, combining innovative teaching methodologies with personalized attention to help students excel in their school curriculum.
             </p>
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <Link href="/courses" className="px-6 py-3 bg-primary text-white font-medium rounded-lg text-center hover:bg-primary-dark transition-colors shadow-md">

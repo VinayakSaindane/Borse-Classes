@@ -302,46 +302,7 @@ export class MemStorage implements IStorage {
       this.createCourse(course);
     });
 
-    // Sample blog posts
-    const today = new Date();
-    const oneWeekAgo = new Date(today);
-    oneWeekAgo.setDate(today.getDate() - 7);
-    const twoWeeksAgo = new Date(today);
-    twoWeeksAgo.setDate(today.getDate() - 14);
 
-    const blogPosts: InsertBlogPost[] = [
-      {
-        title: "5 Effective Study Techniques Based on Cognitive Science",
-        description: "Discover science-backed study methods that can significantly improve retention and understanding of complex topics.",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel ultricies lacinia, nisl nisl aliquam nisl, eget aliquam nisl nisl eu nisl.",
-        category: "Education",
-        slug: "effective-study-techniques",
-        publishDate: today,
-        isPublished: true
-      },
-      {
-        title: "Borse Classes Students Shine in National Science Olympiad",
-        description: "Our students secured 5 gold medals and 8 silver medals in this year's National Science Olympiad. Learn about their journey.",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel ultricies lacinia, nisl nisl aliquam nisl, eget aliquam nisl nisl eu nisl.",
-        category: "Achievements",
-        slug: "national-science-olympiad",
-        publishDate: oneWeekAgo,
-        isPublished: true
-      },
-      {
-        title: "Upcoming Parent Workshop: Supporting Your Child's Academic Journey",
-        description: "Join our expert panel on October 15th for practical tips on how parents can effectively support their children's education.",
-        content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nisl vel ultricies lacinia, nisl nisl aliquam nisl, eget aliquam nisl nisl eu nisl.",
-        category: "Events",
-        slug: "parent-workshop",
-        publishDate: twoWeeksAgo,
-        isPublished: true
-      }
-    ];
-
-    blogPosts.forEach(post => {
-      this.createBlogPost(post);
-    });
   }
 }
 

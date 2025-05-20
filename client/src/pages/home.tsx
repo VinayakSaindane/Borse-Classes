@@ -7,7 +7,6 @@ import AdmissionsSection from '@/components/home/admissions-section';
 import PortalPreview from '@/components/home/portal-preview';
 import TestimonialsSection from '@/components/home/testimonials-section';
 import FAQSection from '@/components/home/faq-section';
-import BlogSection from '@/components/home/blog-section';
 import ContactSection from '@/components/home/contact-section';
 
 export default function Home() {
@@ -30,7 +29,6 @@ export default function Home() {
       <PortalPreview />
       <TestimonialsSection />
       <FAQSection />
-      <BlogSection />
       <ContactSection />
     </>
   );

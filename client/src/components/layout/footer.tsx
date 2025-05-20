@@ -40,7 +40,6 @@ export default function Footer() {
               <li><Link href="/about" className="text-neutral-400 hover:text-white transition-colors">About Us</Link></li>
               <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Courses</Link></li>
               <li><Link href="/admissions" className="text-neutral-400 hover:text-white transition-colors">Admissions</Link></li>
-              <li><Link href="/blog" className="text-neutral-400 hover:text-white transition-colors">Blog</Link></li>
               <li><Link href="/contact" className="text-neutral-400 hover:text-white transition-colors">Contact</Link></li>
             </ul>
           </div>
@@ -48,12 +47,12 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-bold text-white mb-4">Programs</h4>
             <ul className="space-y-2">
-              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Primary Education</Link></li>
-              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Secondary Education</Link></li>
-              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">JEE Preparation</Link></li>
-              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">NEET Coaching</Link></li>
+              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Mathematics (Grade 6-10)</Link></li>
+              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Science (Grade 6-10)</Link></li>
+              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">English (Grade 6-10)</Link></li>
+              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Social Studies (Grade 6-10)</Link></li>
               <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Olympiad Training</Link></li>
-              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Computer Science</Link></li>
+              <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Summer Enrichment</Link></li>
               <li><Link href="/courses" className="text-neutral-400 hover:text-white transition-colors">Skill Development</Link></li>
             </ul>
           </div>
