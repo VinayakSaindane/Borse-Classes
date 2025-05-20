@@ -1,0 +1,28 @@
+ need an AI to design and build a fully functional website for 'Borse Classes'. The website must have a highly unique and engaging UI/UX that appeals to both students and their parents. Prioritize a clean, modern, and intuitive design that is visually appealing and easy to navigate.
+
+The website should include the following core functionalities:
+
+Homepage: Prominently display the class name, mission/vision, a clear call to action (e.g., 'Enroll Now', 'View Courses'), and engaging visuals.
+About Us: Information about Borse Classes, its history, teaching philosophy, and the instructors.
+Courses/Programs: Detailed descriptions of all classes offered, including curriculum, learning objectives, target audience, duration, schedule, and fees. Allow for categorization (e.g., by subject, age group).
+Admissions/Enrollment: A clear, step-by-step enrollment process, including online application forms, payment gateway integration (mocked up if not live), and information on required documents.
+Student Portal (Login Required):
+Individual student dashboards showing enrolled courses, progress, assignments, and grades.
+Access to course materials (notes, videos, supplementary readings).
+Announcement board for important updates.
+Option to view upcoming classes and homework.
+Parent Portal (Login Required):
+View child's progress and attendance.
+Access to payment history and upcoming invoices.
+Communication tools to message instructors or administrators.
+Access to school announcements relevant to parents.
+Schedule/Calendar: A dynamic calendar displaying class timings, holidays, important dates, and events.
+Gallery/Testimonials: Showcase student achievements, class activities, and positive feedback from students and parents.
+Blog/News: For sharing updates, educational articles, and class-related news.
+FAQ: Comprehensive answers to common questions.
+Contact Us: Multiple contact methods (phone, email, inquiry form), location map (if applicable), and business hours.
+Search Functionality: Across the entire website.
+Responsiveness: Fully optimized for desktop, tablet, and mobile devices.
+SEO Optimization: Basic on-page SEO best practices implemented.
+Accessibility: Adherence to WCAG guidelines for accessibility.
+The UI should feel vibrant, encouraging, and trustworthy. Consider incorporating elements like subtle animations, clear typography, and a cohesive color palette. The goal is to make the online experience as positive and effective as the in-person learning experience.
