@@ -38,13 +38,9 @@ app.use((req, res, next) => {
 });
 
 (async () => {
-  // Initialize sample data in the database
-  try {
-    await storage.initializeSampleData();
-    log("Sample data initialized successfully");
-  } catch (error) {
-    log(`Error initializing sample data: ${error instanceof Error ? error.message : String(error)}`);
-  }
+  // Initialize sample data in memory
+  await storage.initializeSampleData();
+  log("Sample data initialized successfully");
   
   const server = await registerRoutes(app);
 
