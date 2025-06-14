@@ -61,8 +61,8 @@ export default function Admissions() {
   return (
     <>
       <Helmet>
-        <title>Admissions - Borse Classes</title>
-        <meta name="description" content="Apply for admission to Borse Classes. Our simple enrollment process makes it easy to secure your spot in our classes." />
+        <title>Admissions - Gurav Classes</title>
+        <meta name="description" content="Apply for admission to Gurav Classes. Our simple enrollment process makes it easy to secure your spot in our classes." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
       

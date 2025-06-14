@@ -53,8 +53,8 @@ export default function Login() {
   return (
     <>
       <Helmet>
-        <title>Login - Borse Classes</title>
-        <meta name="description" content="Log in to access your Borse Classes student or parent portal." />
+        <title>Login - Gurav Classes</title>
+        <meta name="description" content="Log in to access your Gurav Classes student or parent portal." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
       
@@ -66,7 +66,7 @@ export default function Login() {
               <div className="w-12 h-12 rounded-full bg-white flex items-center justify-center">
                 <span className="text-primary font-bold text-xl">BC</span>
               </div>
-              <h1 className="text-3xl font-bold font-poppins">Borse Classes</h1>
+              <h1 className="text-3xl font-bold font-poppins">Gurav Classes</h1>
             </div>
             
             <h2 className="text-3xl md:text-4xl font-bold font-poppins mb-6">Welcome to our Learning Portal</h2>

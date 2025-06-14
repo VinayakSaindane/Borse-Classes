@@ -84,8 +84,8 @@ export default function ContactSection() {
                   </div>
                   <div>
                     <h4 className="font-medium text-neutral-900">Email</h4>
-                    <p className="text-neutral-600">admissions@borseclasses.com</p>
-                    <p className="text-neutral-600">info@borseclasses.com</p>
+                    <p className="text-neutral-600">admissions@guravclasses.com</p>
+                    <p className="text-neutral-600">info@guravclasses.com</p>
                   </div>
                 </div>
                 
@@ -265,7 +265,7 @@ export default function ContactSection() {
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Borse Classes Location Map"
+              title="Gurav Classes Location Map"
             ></iframe>
           </div>
         </div>

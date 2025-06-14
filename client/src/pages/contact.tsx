@@ -46,8 +46,8 @@ export default function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Borse Classes</title>
-        <meta name="description" content="Get in touch with Borse Classes. We're here to answer your questions and provide information about our programs." />
+        <title>Contact Us - Gurav Classes</title>
+        <meta name="description" content="Get in touch with Gurav Classes. We're here to answer your questions and provide information about our programs." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
       
@@ -96,8 +96,8 @@ export default function Contact() {
                     </div>
                     <div>
                       <h4 className="font-medium text-neutral-900">Email</h4>
-                      <p className="text-neutral-600">admissions@borseclasses.com</p>
-                      <p className="text-neutral-600">info@borseclasses.com</p>
+                      <p className="text-neutral-600">admissions@guravclasses.com</p>
+                      <p className="text-neutral-600">info@guravclasses.com</p>
                     </div>
                   </div>
                   
@@ -278,7 +278,7 @@ export default function Contact() {
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Borse Classes Location Map"
+              title="Gurav Classes Location Map"
             ></iframe>
           </div>
         </div>
