@@ -36,9 +36,9 @@ export default function Header() {
           <div className="flex items-center">
             <Link href="/" className="flex items-center space-x-2">
               <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
-                <span className="text-white font-bold text-xl">GC</span>
+                <span className="text-white font-bold text-xl">BC</span>
               </div>
-              <span className="text-xl font-bold text-neutral-900 font-poppins">Gurav Classes</span>
+              <span className="text-xl font-bold text-neutral-900 font-poppins">Borse Classes</span>
             </Link>
           </div>
           

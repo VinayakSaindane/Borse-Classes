@@ -272,7 +272,7 @@ export class MemStorage implements IStorage {
         category: "primary,secondary",
         duration: "16 weeks",
         audience: "Grades 8-10",
-        price: "₹15,000",
+        price: "Moderate & Resonable Fees",
         isPopular: true,
         isNew: false
       },

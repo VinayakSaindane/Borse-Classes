@@ -10,7 +10,7 @@ export default function Footer() {
               <div className="w-10 h-10 rounded-full bg-primary flex items-center justify-center">
                 <span className="text-white font-bold text-xl">BC</span>
               </div>
-              <span className="text-xl font-bold text-white font-poppins">Gurav Classes</span>
+              <span className="text-xl font-bold text-white font-poppins">Om Sai Classes</span>
             </div>
             
             <p className="text-neutral-400 mb-6">
@@ -83,7 +83,7 @@ export default function Footer() {
         <div className="border-t border-neutral-800 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-neutral-500 text-sm mb-4 md:mb-0">
-              &copy; {new Date().getFullYear()} Gurav Classes. All rights reserved.
+              &copy; {new Date().getFullYear()} Om Sai Classes. All rights reserved.
             </p>
             
             <div className="flex space-x-4 text-sm text-neutral-500">

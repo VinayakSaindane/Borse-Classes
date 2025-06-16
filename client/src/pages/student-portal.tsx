@@ -26,7 +26,7 @@ export default function StudentPortal() {
     setIsAuthenticated(true);
     toast({
       title: "Login Successful",
-      description: "Welcome back to Gurav Classes Student Portal!",
+      description: "Welcome back to Om Sai Classes Student Portal!",
     });
   };
 
@@ -68,7 +68,7 @@ export default function StudentPortal() {
     return (
       <>
         <Helmet>
-          <title>Student Portal - Gurav Classes</title>
+          <title>Student Portal - Om Sai Classes</title>
           <meta name="description" content="Access your personal student dashboard, view course materials, check grades, and manage assignments." />
           <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
         </Helmet>
@@ -147,7 +147,7 @@ export default function StudentPortal() {
   return (
     <>
       <Helmet>
-        <title>Student Dashboard - Gurav Classes</title>
+        <title>Student Dashboard - Om Sai Classes</title>
         <meta name="description" content="Access your personal student dashboard, view course materials, check grades, and manage assignments." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
@@ -160,7 +160,7 @@ export default function StudentPortal() {
               <div className="w-8 h-8 rounded-full bg-white flex items-center justify-center">
                 <span className="text-primary font-bold text-sm">BC</span>
               </div>
-              <h1 className="text-white font-medium">Gurav Classes Student Portal</h1>
+              <h1 className="text-white font-medium">Om Sai Classes Student Portal</h1>
             </div>
             <div className="flex items-center space-x-4">
               <button className="text-white opacity-80 hover:opacity-100">

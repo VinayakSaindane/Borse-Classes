@@ -25,7 +25,7 @@ export default function ParentPortal() {
     setIsAuthenticated(true);
     toast({
       title: "Login Successful",
-      description: "Welcome to Gurav Classes Parent Portal!",
+      description: "Welcome to Om Sai Classes Parent Portal!",
     });
   };
 
@@ -82,7 +82,7 @@ export default function ParentPortal() {
     return (
       <>
         <Helmet>
-          <title>Parent Portal - Gurav Classes</title>
+          <title>Parent Portal - Om Sai Classes</title>
           <meta name="description" content="Access your child's academic records, attendance, fee payments, and communicate with teachers." />
           <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
         </Helmet>
@@ -161,7 +161,7 @@ export default function ParentPortal() {
   return (
     <>
       <Helmet>
-        <title>Parent Dashboard - Gurav Classes</title>
+        <title>Parent Dashboard - Om Sai Classes</title>
         <meta name="description" content="Access your child's academic records, attendance, fee payments, and communicate with teachers." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
@@ -174,7 +174,7 @@ export default function ParentPortal() {
               <div className="w-8 h-8 rounded-full bg-white flex items-center justify-center">
                 <span className="text-secondary font-bold text-sm">BC</span>
               </div>
-              <h1 className="text-white font-medium">Gurav Classes Parent Portal</h1>
+              <h1 className="text-white font-medium">Om Sai Classes Parent Portal</h1>
             </div>
             <div className="flex items-center space-x-4">
               <button className="text-white opacity-80 hover:opacity-100">

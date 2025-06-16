@@ -13,10 +13,10 @@ export default function Home() {
   return (
     <>
       <Helmet>
-        <title>Gurav Classes - Excellence in Education</title>
-        <meta name="description" content="Gurav Classes provides quality education and personalized learning experiences. Explore our courses, admissions process, and student resources." />
-        <meta property="og:title" content="Gurav Classes - Excellence in Education" />
-        <meta property="og:description" content="Gurav Classes provides quality education and personalized learning experiences. Explore our courses, admissions process, and student resources." />
+        <title>Om Sai Classes - Excellence in Education</title>
+<meta name="description" content="Om Sai Classes provides quality education and personalized learning experiences. Explore our courses, admissions process, and student resources." />
+<meta property="og:title" content="Om Sai Classes - Excellence in Education" />
+<meta property="og:description" content="Om Sai Classes provides quality education and personalized learning experiences. Explore our courses, admissions process, and student resources." />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://guravclasses.com" />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />

@@ -6,8 +6,8 @@ export default function AboutSection() {
       <div className="container mx-auto px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto text-center mb-12">
           <h6 className="text-primary font-medium mb-2">ABOUT US</h6>
-          <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 font-poppins mb-4">Nurturing Excellence Since 2008</h2>
-          <p className="text-neutral-600">Discover our journey, mission, and the passionate team behind Gurav Classes.</p>
+          <h2 className="text-3xl md:text-4xl font-bold text-neutral-900 font-poppins mb-4">Nurturing Excellence Since 1981</h2>
+          <p className="text-neutral-600">Discover our journey, mission, and the passionate team behind Borse Classes.</p>
         </div>
         
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-16 items-center">
@@ -15,7 +15,7 @@ export default function AboutSection() {
             <div className="relative">
               <img 
                 src="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=600" 
-                alt="Modern learning environment at Gurav Classes" 
+                alt="Modern learning environment at Om Sai Classes" 
                 className="rounded-xl shadow-lg w-full h-auto" 
               />
               
@@ -37,11 +37,11 @@ export default function AboutSection() {
             <h3 className="text-2xl font-bold text-neutral-900 font-poppins mb-6">Our Story & Mission</h3>
             
             <p className="text-neutral-700 mb-4">
-              Founded in 2008 by Dr. Anil Borse, a visionary educationist with over 25 years of teaching experience, Gurav Classes began with a simple mission: to transform education from rote learning to conceptual understanding.
+              Founded in 1981 by Mr. Dudhaji Borse, a visionary educationist with over 45 years of teaching experience, Borse Classes began with a simple mission: to transform education from rote learning to conceptual understanding.
             </p>
             
             <p className="text-neutral-700 mb-6">
-              What started as a small tutoring center with just 15 students has now evolved into a premier educational institution with multiple branches, serving thousands of students annually. Our teaching methodology blends traditional wisdom with modern innovation.
+              What started as a small tutoring center with just 20 students has now evolved into a premier educational institution , serving hundreds of students annually. Our teaching methodology blends traditional wisdom with modern innovation.
             </p>
             
             <div className="space-y-4 mb-8">
@@ -60,7 +60,7 @@ export default function AboutSection() {
                   <i className="bx bx-check-circle text-2xl"></i>
                 </div>
                 <div>
-                  <h4 className="font-medium text-neutral-900">Holistic Development</h4>
+                  <h4 className="font-medium text-neutral-900">Extra Problems Solved</h4>
                   <p className="text-neutral-600 text-sm">Beyond academics, we focus on building character and life skills.</p>
                 </div>
               </div>

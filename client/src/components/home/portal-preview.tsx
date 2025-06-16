@@ -109,7 +109,7 @@ export default function PortalPreview() {
                   <div className="w-8 h-8 rounded-full bg-white flex items-center justify-center">
                     <span className="text-primary font-bold text-sm">BC</span>
                   </div>
-                  <h4 className="text-white font-medium">Gurav Classes Student Portal</h4>
+                  <h4 className="text-white font-medium">Om Sai Classes Student Portal</h4>
                 </div>
                 <div className="flex space-x-2">
                   <button className="text-white opacity-80 hover:opacity-100">
