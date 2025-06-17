@@ -4,8 +4,8 @@ export default function About() {
   return (
     <>
       <Helmet>
-        <title>About Us - Om Sai Classes</title>
-<meta name="description" content="Learn about Om Sai Classes' history, mission, teaching philosophy, and our team of experienced educators." />
+        <title>About Us - Borse Classes</title>
+<meta name="description" content="Learn about Borse Classes' history, mission, teaching philosophy, and our team of experienced educators." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
       
@@ -14,7 +14,7 @@ export default function About() {
           <div className="max-w-3xl mx-auto text-center mb-12">
             <h6 className="text-primary font-medium mb-2">ABOUT US</h6>
             <h1 className="text-3xl md:text-5xl font-bold text-neutral-900 font-poppins mb-4">Our Story & Mission</h1>
-            <p className="text-lg text-neutral-600">Discover the journey, values, and people behind Om Sai Classes.</p>
+            <p className="text-lg text-neutral-600">Discover the journey, values, and people behind Borse Classes.</p>
           </div>
         </div>
       </section>
@@ -25,7 +25,7 @@ export default function About() {
             <div>
               <img 
                 src="https://images.unsplash.com/photo-1509062522246-3755977927d7?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=600" 
-                alt="Om Sai Classes campus" 
+                alt="Borse Classes campus" 
                 className="rounded-xl shadow-lg w-full h-auto" 
               />
             </div>
@@ -34,7 +34,7 @@ export default function About() {
               <h2 className="text-3xl font-bold text-neutral-900 font-poppins mb-6">Our History</h2>
               
               <p className="text-neutral-700 mb-4">
-                Founded in 2008 by Dr. Anil Borse, a visionary educationist with over 25 years of teaching experience, Om Sai Classes began with a simple mission: to transform education from rote learning to conceptual understanding.
+                Founded in 2008 by Dr. Anil Borse, a visionary educationist with over 25 years of teaching experience, Borse Classes began with a simple mission: to transform education from rote learning to conceptual understanding.
               </p>
               
               <p className="text-neutral-700 mb-4">

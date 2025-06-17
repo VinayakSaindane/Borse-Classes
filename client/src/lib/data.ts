@@ -113,7 +113,7 @@ export const testimonials: Testimonial[] = [
     id: "1",
     name: "Priya Sharma",
     role: "Grade 12 Student • JEE Advanced Qualifier",
-    content: "The JEE preparation at Om Sai Classes was exceptional. The teachers not only simplified complex concepts but also taught us effective problem-solving strategies. The regular mock tests helped me identify my weaknesses and work on them. I secured AIR 845 in JEE Advanced thanks to their guidance.",
+    content: "The JEE preparation at Borse Classes was exceptional. The teachers not only simplified complex concepts but also taught us effective problem-solving strategies. The regular mock tests helped me identify my weaknesses and work on them. I secured AIR 845 in JEE Advanced thanks to their guidance.",
     rating: 5,
     avatarUrl: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=96&h=96"
   },
@@ -121,7 +121,7 @@ export const testimonials: Testimonial[] = [
     id: "2",
     name: "Rajesh Patel",
     role: "Parent of Arjun (Grade 9)",
-    content: "As a parent, I appreciate the transparency and regular updates provided by Om Sai Classes. The parent portal allows me to track my son's progress and stay involved in his education. His grades in Mathematics and Science have improved significantly, and he's developed a genuine interest in learning.",
+    content: "As a parent, I appreciate the transparency and regular updates provided by Borse Classes. The parent portal allows me to track my son's progress and stay involved in his education. His grades in Mathematics and Science have improved significantly, and he's developed a genuine interest in learning.",
     rating: 5,
     avatarUrl: "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=96&h=96"
   },

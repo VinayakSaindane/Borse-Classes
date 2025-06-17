@@ -1,9 +1,9 @@
-need an AI to design and build a fully functional website for 'Om Sai Classes'. The website must have a highly unique and engaging UI/UX that appeals to both students and their parents. Prioritize a clean, modern, and intuitive design that is visually appealing and easy to navigate.
+need an AI to design and build a fully functional website for 'Borse Classes'. The website must have a highly unique and engaging UI/UX that appeals to both students and their parents. Prioritize a clean, modern, and intuitive design that is visually appealing and easy to navigate.
 
 The website should include the following core functionalities:
 
 Homepage: Prominently display the class name, mission/vision, a clear call to action (e.g., 'Enroll Now', 'View Courses'), and engaging visuals.
-About Us: Information about Om Sai Classes, its history, teaching philosophy, and the instructors.
+About Us: Information about Borse Classes, its history, teaching philosophy, and the instructors.
 Courses/Programs: Detailed descriptions of all classes offered, including curriculum, learning objectives, target audience, duration, schedule, and fees. Allow for categorization (e.g., by subject, age group).
 Admissions/Enrollment: A clear, step-by-step enrollment process, including online application forms, payment gateway integration (mocked up if not live), and information on required documents.
 Student Portal (Login Required):

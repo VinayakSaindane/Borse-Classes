@@ -46,8 +46,8 @@ export default function Contact() {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Om Sai Classes</title>
-<meta name="description" content="Get in touch with Om Sai Classes. We're here to answer your questions and provide information about our programs." />
+        <title>Contact Us - Borse Classes</title>
+<meta name="description" content="Get in touch with Borse Classes. We're here to answer your questions and provide information about our programs." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
       
@@ -278,7 +278,7 @@ export default function Contact() {
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Om Sai Classes Location Map"
+              title="Borse Classes Location Map"
             ></iframe>
           </div>
         </div>

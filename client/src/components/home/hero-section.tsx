@@ -47,7 +47,7 @@ export default function HeroSection() {
           <div className="order-1 lg:order-2 relative">
             <img 
               src="https://images.unsplash.com/photo-1571260899304-425eee4c7efc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=800&h=600" 
-              alt="Students engaged in learning at Om Sai Classes" 
+              alt="Students engaged in learning at Borse Classes" 
               className="rounded-xl shadow-2xl w-full h-auto" 
             />
             

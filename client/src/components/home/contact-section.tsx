@@ -265,7 +265,7 @@ export default function ContactSection() {
               allowFullScreen 
               loading="lazy" 
               referrerPolicy="no-referrer-when-downgrade"
-              title="Om Sai Classes Location Map"
+              title="Borse Classes Location Map"
             ></iframe>
           </div>
         </div>

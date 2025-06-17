@@ -13,7 +13,7 @@ export default function Courses() {
   return (
     <>
       <Helmet>
-        <title>Courses & Programs - Om Sai Classes</title>
+        <title>Courses & Programs - Borse Classes</title>
         <meta name="description" content="Explore our comprehensive range of courses designed to help students excel in academics and competitive exams." />
         <link href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css" rel="stylesheet" />
       </Helmet>
@@ -123,7 +123,7 @@ export default function Courses() {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl mx-auto text-center mb-12">
             <h2 className="text-3xl font-bold text-neutral-900 font-poppins mb-4">Our Teaching Methodology</h2>
-            <p className="text-neutral-600">At Om Sai Classes, we believe in making learning an engaging and enriching experience.</p>
+            <p className="text-neutral-600">At Borse Classes, we believe in making learning an engaging and enriching experience.</p>
           </div>
           
           <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
@@ -166,7 +166,7 @@ export default function Courses() {
             <div className="max-w-3xl mx-auto text-center">
               <h2 className="text-3xl font-bold text-white font-poppins mb-4">Ready to Begin Your Learning Journey?</h2>
               <p className="text-white text-opacity-90 mb-8">
-                Join thousands of students who have transformed their academic performance with Om Sai Classes.
+                Join thousands of students who have transformed their academic performance with Borse Classes.
               </p>
               <div className="flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 sm:space-x-4">
                 <Link href="/admissions" className="px-6 py-3 bg-white text-primary font-medium rounded-lg text-center hover:bg-neutral-100 transition-colors shadow-md">
